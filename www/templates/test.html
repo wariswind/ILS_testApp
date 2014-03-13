@@ -1,0 +1,35 @@
+<ion-view title="'ILS Test Base'" left-buttons="leftButtons">
+
+        <ion-content class="body_view" has-header="true" padding="true" >
+		
+
+<div class="list card">
+
+  
+ <div class="item item-text-wrap questioncss" ng-hide="myValue">
+    {{questions.question}}
+  </div>
+  <div class="item item-body">
+  <div ng-hide="myValue2" class="correct">Congratulation! you got it right. We have to move.</div>
+  <div class="list" ng-hide="myValue">
+  <label ng-repeat="optn in questions.option" class="item item-radio optioncss assertive">
+    <input type="radio" ng-model="hi" value="{{optn.alph}}" ng-click="answerChange(optn.optionval)" name="group">
+    <div class="item-content">
+      <b class="optionCat">{{optn.alph}}.</b> {{optn.optionval}}
+    </div>
+    <i class="radio-icon ion-checkmark"></i>
+  </label>
+  </div>
+  <div class="failopt" ng-hide="failHid">
+  Sorry! you got it wrong. do you which to continue?<br>
+  <div class="btn_bar">
+ <button class="button ion-chevron-left button-dack" ng-click="goback()"> No</button> 
+<button class="button  ion-chevron-right button-positive" ng-click="continueTest()"> Yes</button>
+</div>
+
+  </div>
+  </div>
+  </div>
+
+        </ion-content>
+      </ion-view>

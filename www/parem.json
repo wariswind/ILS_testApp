@@ -1,0 +1,22 @@
+[
+{"question":"According to the saying, what does an apple a day keep away?",
+	"option":[{"alph":"A","optionval":"Mailman"},{"alph":"B","optionval":"Spider"},{"alph":"C","optionval":"Doctor"},{"alph":"D","optionval":"Ghosts"}],
+	"answer":"Doctor"
+},
+{"question":"Every cloud has...?",
+	"option":[{"alph":"A","optionval":"...a black lining"},{"alph":"B","optionval":"...a hole"},{"alph":"C","optionval":"...a silver lining"},{"alph":"D","optionval":"...a gray touch"}],
+	"answer":"...a silver lining"
+},
+{"question":"Which of these expression refers to a tall tale or unlelievable story?",
+	"option":[{"alph":"A","optionval":"Cock-and-Bull"},{"alph":"B","optionval":"bull-and-bear"},{"alph":"C","optionval":"frog-and-toad"},{"alph":"D","optionval":"Cat-and-dog"}],
+	"answer":"Cock-and-Bull"
+},
+{"question":"On the critically-acclaimed show 'Rescue Me', Denis leary has what job?",
+	"option":[{"alph":"A","optionval":"Police officer"},{"alph":"B","optionval":"EMT"},{"alph":"C","optionval":"Firefighter"},{"alph":"D","optionval":"Lifeguard"}],
+	"answer":"Firefighter"
+},
+{"question":"Taiwan is considered to be part of which continent?",
+	"option":[{"alph":"A","optionval":"Australia"},{"alph":"B","optionval":"South America"},{"alph":"C","optionval":"Asia"},{"alph":"D","optionval":"North America"}],
+	"answer":"Asia"
+}
+]

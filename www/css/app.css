@@ -1,0 +1,14 @@
+/* CSS Document */
+body{font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;}
+.body_view{ background-color:#AB0B0E}
+.brainimg{ width:100%; height:auto;}
+.app_home_btn{width:50%; margin:0px auto;}
+.app_home_btn button{font-size:1.1em;}
+.optionCat{ font-size:1.05em; margin-right:2em;}
+.correct{font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif; font-size:1.1em; color:#15A321}
+.optioncss{ font-size:1.2em; background-color:#CD6365}
+.questioncss{ font-size:1.3em;}
+.failopt{ color:#C72124; font-size:1.2em;}
+.btn_bar{ text-align:center;  margin-top:3em;}
+
+
